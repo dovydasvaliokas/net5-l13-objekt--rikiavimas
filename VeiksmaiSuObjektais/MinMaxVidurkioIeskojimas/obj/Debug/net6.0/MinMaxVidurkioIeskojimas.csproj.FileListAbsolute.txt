@@ -1,0 +1,15 @@
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\bin\Debug\net6.0\MinMaxVidurkioIeskojimas.exe
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\bin\Debug\net6.0\MinMaxVidurkioIeskojimas.deps.json
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\bin\Debug\net6.0\MinMaxVidurkioIeskojimas.runtimeconfig.json
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\bin\Debug\net6.0\MinMaxVidurkioIeskojimas.dll
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\bin\Debug\net6.0\MinMaxVidurkioIeskojimas.pdb
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\obj\Debug\net6.0\MinMaxVidurkioIeskojimas.csproj.AssemblyReference.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\obj\Debug\net6.0\MinMaxVidurkioIeskojimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\obj\Debug\net6.0\MinMaxVidurkioIeskojimas.AssemblyInfoInputs.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\obj\Debug\net6.0\MinMaxVidurkioIeskojimas.AssemblyInfo.cs
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\obj\Debug\net6.0\MinMaxVidurkioIeskojimas.csproj.CoreCompileInputs.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\obj\Debug\net6.0\MinMaxVidurkioIeskojimas.dll
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\obj\Debug\net6.0\refint\MinMaxVidurkioIeskojimas.dll
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\obj\Debug\net6.0\MinMaxVidurkioIeskojimas.pdb
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\obj\Debug\net6.0\MinMaxVidurkioIeskojimas.genruntimeconfig.cache
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\c-sharp-pamokos\pamoka12.veiksmai-su-objektai\VeiksmaiSuObjektais\MinMaxVidurkioIeskojimas\obj\Debug\net6.0\ref\MinMaxVidurkioIeskojimas.dll

@@ -8,7 +8,15 @@ namespace MinMaxVidurkioIeskojimas // Note: actual namespace depends on the proj
         const string FailoPavadinimas = "prekes.csv";
         static void Main(string[] args)
         {
-            NuskaitytiPrekesIsFailo();
+            List<Preke> prekes = NuskaitytiPrekesIsFailo();
+
+            Console.WriteLine("Brangiausia prekė: ");
+
+            Preke brangiausiaPreke = RastiBrangiausiaPreke(prekes);
+
+            Console.WriteLine(brangiausiaPreke);                // kai turiu ToString() overridintą, jo net nereikia rašyti - automatiškai implementuoja.
+        
+        
         }
 
 
@@ -49,5 +57,37 @@ namespace MinMaxVidurkioIeskojimas // Note: actual namespace depends on the proj
         }
 
 
+        static Preke RastiBrangiausiaPreke(List<Preke> prekes)
+        {
+            Preke brangiausiaPreke = prekes[0];
+            foreach (Preke preke in prekes)
+            {
+                if (preke.Kaina > brangiausiaPreke.Kaina)
+                {
+                    brangiausiaPreke = preke;
+                }
+            }
+            return brangiausiaPreke;
+        }
+
+
+
+        static decimal PrekiuSuma(List<Preke> prekes)
+        {
+            decimal prekiuSuma = 0;
+            foreach (Preke preke in prekes)
+            {
+                prekiuSuma += preke.Kaina;
+            }
+            return prekiuSuma;
+        }
+
+
+        static double PrekiuVidurkis(List<Preke> prekes)
+        {
+            double prekiuVidurkis;
+            prekiuVidurkis = (double) PrekiuSuma(prekes) / prekes.Count;
+            return prekiuVidurkis;
+        }
     }
 }

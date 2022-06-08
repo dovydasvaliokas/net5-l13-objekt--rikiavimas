@@ -42,6 +42,7 @@ namespace MinMaxVidurkioIeskojimas
         }
 
         //---------------------------- Klasės funkcijos/metodai -----------------------------------
+        
 
         // Overridintas ToString() metodas.
         public override string? ToString()

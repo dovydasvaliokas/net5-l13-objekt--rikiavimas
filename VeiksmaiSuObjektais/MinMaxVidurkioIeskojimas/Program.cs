@@ -15,11 +15,16 @@ namespace MinMaxVidurkioIeskojimas // Note: actual namespace depends on the proj
             Preke brangiausiaPreke = RastiBrangiausiaPreke(prekes);
 
             Console.WriteLine(brangiausiaPreke);                // kai turiu ToString() overridintą, jo net nereikia rašyti - automatiškai implementuoja.
-        
-        
+
+            Console.WriteLine("Prekių vidurkis yra: ");
+
+            Console.WriteLine(PrekiuVidurkis(prekes));          // nekuriant papildomo kintamojo, bet tikrai galima šitam variantui irgi susikurti papildomą kintamąjį "double prekiuVidurkis" ir taip būtų saugiau.
         }
 
-
+        /// <summary>
+        /// Nuskaito visas prekes iš tekstinio failo (naudojant dar papildomą konvertavimo eilutės į Prekės funkciją)
+        /// </summary>
+        /// <returns>Grąžina prekių sąrašą.</returns>
         static List<Preke> NuskaitytiPrekesIsFailo()
         {
             List<Preke> prekes = new List<Preke>();
@@ -34,6 +39,11 @@ namespace MinMaxVidurkioIeskojimas // Note: actual namespace depends on the proj
             return prekes;
         }
 
+        /// <summary>
+        /// Konvertuoja vieną tekstinę (String) eilutę į Prekės objektą
+        /// </summary>
+        /// <param name="eilute">String eilutė, kurią nuskaito iš tekstinio failo ir atsiunčia šitai funkcijai</param>
+        /// <returns>Grąžina Prekės objektą</returns>
         static Preke KonvertuojaEiluteIPreke(string eilute)
         {
             string[] stulpeliai = eilute.Split(",");
@@ -56,7 +66,11 @@ namespace MinMaxVidurkioIeskojimas // Note: actual namespace depends on the proj
             return preke;
         }
 
-
+        /// <summary>
+        /// Funkcija suranda brangiausią prekę pagal kainą.
+        /// </summary>
+        /// <param name="prekes">Prekių sąrašas</param>
+        /// <returns>Grąžina brangiausią prekę (Preke objektą)</returns>
         static Preke RastiBrangiausiaPreke(List<Preke> prekes)
         {
             Preke brangiausiaPreke = prekes[0];
@@ -71,7 +85,11 @@ namespace MinMaxVidurkioIeskojimas // Note: actual namespace depends on the proj
         }
 
 
-
+        /// <summary>
+        /// Funkcija suranda visų prekių kainų sumą.
+        /// </summary>
+        /// <param name="prekes">Prekių sąrašas</param>
+        /// <returns>Grąžina prekių kainų sumą. (decimal skaičių)</returns>
         static decimal PrekiuSuma(List<Preke> prekes)
         {
             decimal prekiuSuma = 0;
@@ -82,7 +100,11 @@ namespace MinMaxVidurkioIeskojimas // Note: actual namespace depends on the proj
             return prekiuSuma;
         }
 
-
+        /// <summary>
+        /// Funkcija suranda visų prekių kainų vidurkį, taip pat naudojant sumos funkciją.
+        /// </summary>
+        /// <param name="prekes">Prekių sąrašas</param>
+        /// <returns>Grąžina prekių kainų vidurkį.</returns>
         static double PrekiuVidurkis(List<Preke> prekes)
         {
             double prekiuVidurkis;

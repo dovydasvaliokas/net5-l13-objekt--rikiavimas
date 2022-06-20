@@ -19,6 +19,11 @@ namespace MinMaxVidurkioIeskojimas // Note: actual namespace depends on the proj
             Console.WriteLine("Prekių vidurkis yra: ");
 
             Console.WriteLine(PrekiuVidurkis(prekes));          // nekuriant papildomo kintamojo, bet tikrai galima šitam variantui irgi susikurti papildomą kintamąjį "double prekiuVidurkis" ir taip būtų saugiau.
+
+
+            Console.WriteLine("-------------- SEKANTIS PAVYZDYS SU RIKIAVIMU -------------------");
+
+            
         }
 
         /// <summary>

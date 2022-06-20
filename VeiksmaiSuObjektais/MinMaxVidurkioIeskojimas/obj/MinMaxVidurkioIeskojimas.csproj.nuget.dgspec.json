@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADFADFDA\\Desktop\\pamokos6-NET-programavimas\\c-sharp-pamokos\\pamoka12.veiksmai-su-objektai\\VeiksmaiSuObjektais\\MinMaxVidurkioIeskojimas\\MinMaxVidurkioIeskojimas.csproj": {}
+    "C:\\Users\\Kompiuteris\\Desktop\\pamokos6_pprogramavimas_net\\c-sharp\\pamoka13-objektu-rikiavimas\\net5-l12-veiksmai-su-objektais\\VeiksmaiSuObjektais\\MinMaxVidurkioIeskojimas\\MinMaxVidurkioIeskojimas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADFADFDA\\Desktop\\pamokos6-NET-programavimas\\c-sharp-pamokos\\pamoka12.veiksmai-su-objektai\\VeiksmaiSuObjektais\\MinMaxVidurkioIeskojimas\\MinMaxVidurkioIeskojimas.csproj": {
+    "C:\\Users\\Kompiuteris\\Desktop\\pamokos6_pprogramavimas_net\\c-sharp\\pamoka13-objektu-rikiavimas\\net5-l12-veiksmai-su-objektais\\VeiksmaiSuObjektais\\MinMaxVidurkioIeskojimas\\MinMaxVidurkioIeskojimas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADFADFDA\\Desktop\\pamokos6-NET-programavimas\\c-sharp-pamokos\\pamoka12.veiksmai-su-objektai\\VeiksmaiSuObjektais\\MinMaxVidurkioIeskojimas\\MinMaxVidurkioIeskojimas.csproj",
+        "projectUniqueName": "C:\\Users\\Kompiuteris\\Desktop\\pamokos6_pprogramavimas_net\\c-sharp\\pamoka13-objektu-rikiavimas\\net5-l12-veiksmai-su-objektais\\VeiksmaiSuObjektais\\MinMaxVidurkioIeskojimas\\MinMaxVidurkioIeskojimas.csproj",
         "projectName": "MinMaxVidurkioIeskojimas",
-        "projectPath": "C:\\Users\\ADFADFDA\\Desktop\\pamokos6-NET-programavimas\\c-sharp-pamokos\\pamoka12.veiksmai-su-objektai\\VeiksmaiSuObjektais\\MinMaxVidurkioIeskojimas\\MinMaxVidurkioIeskojimas.csproj",
-        "packagesPath": "C:\\Users\\ADFADFDA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADFADFDA\\Desktop\\pamokos6-NET-programavimas\\c-sharp-pamokos\\pamoka12.veiksmai-su-objektai\\VeiksmaiSuObjektais\\MinMaxVidurkioIeskojimas\\obj\\",
+        "projectPath": "C:\\Users\\Kompiuteris\\Desktop\\pamokos6_pprogramavimas_net\\c-sharp\\pamoka13-objektu-rikiavimas\\net5-l12-veiksmai-su-objektais\\VeiksmaiSuObjektais\\MinMaxVidurkioIeskojimas\\MinMaxVidurkioIeskojimas.csproj",
+        "packagesPath": "C:\\Users\\Kompiuteris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kompiuteris\\Desktop\\pamokos6_pprogramavimas_net\\c-sharp\\pamoka13-objektu-rikiavimas\\net5-l12-veiksmai-su-objektais\\VeiksmaiSuObjektais\\MinMaxVidurkioIeskojimas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADFADFDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kompiuteris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

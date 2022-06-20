@@ -23,7 +23,12 @@ namespace MinMaxVidurkioIeskojimas // Note: actual namespace depends on the proj
 
             Console.WriteLine("-------------- SEKANTIS PAVYZDYS SU RIKIAVIMU -------------------");
 
-            
+            prekes.Sort(new PrekeKainaComparerDidejancia());
+
+            foreach (Preke preke in prekes)
+            {
+                Console.WriteLine(preke);
+            }
         }
 
         /// <summary>
